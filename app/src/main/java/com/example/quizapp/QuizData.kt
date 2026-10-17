@@ -10,7 +10,7 @@ val quizQuestions = listOf(
             "Home Tool Markup Language",
             "Hyper Text Management Language"
         ),
-        correctAnswer = 2
+        correctAnswer = 1
     ),
 
     Question(
@@ -22,7 +22,7 @@ val quizQuestions = listOf(
             "<h1>",
             "<head>"
         ),
-        correctAnswer = 3
+        correctAnswer = 2
     ),
 
     Question(
@@ -34,7 +34,7 @@ val quizQuestions = listOf(
             "bgcolor",
             "canvas-color"
         ),
-        correctAnswer = 2
+        correctAnswer = 1
     ),
 
     Question(
@@ -46,7 +46,7 @@ val quizQuestions = listOf(
             "console.log(\"Hello World\");",
             "alertBox(\"Hello World\");"
         ),
-        correctAnswer = 1
+        correctAnswer = 0
     ),
 
     Question(
@@ -58,6 +58,6 @@ val quizQuestions = listOf(
             "* (asterisk)",
             "@ (at sign)"
         ),
-        correctAnswer = 2
+        correctAnswer = 1
     )
 )
